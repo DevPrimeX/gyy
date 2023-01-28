@@ -1,6 +1,7 @@
-Dnspython
-Motor
-Pyrogram
-Pymongo
-Requests 
 TgCrypto
+pyrogram==1.4.16
+Dnspython
+pyromod
+umongo==2.3.0
+motor==2.3.0
+pytz
