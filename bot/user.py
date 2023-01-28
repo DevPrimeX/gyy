@@ -14,7 +14,7 @@ class User(Client):
             "userbot",
             api_hash=API_HASH,
             api_id=APP_ID,
-            session_string=USER_SESSION,
+            session_string=SESSION_NAME,
             workers=20
         )
         self.LOGGER = LOGGER
